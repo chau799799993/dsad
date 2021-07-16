@@ -231,8 +231,8 @@
     "bearing": 0,
     "pitch": 0,
     "sources": {
-        "mapbox://satellite-streets-v11": {
-            "url": "mapbox://satellite-streets-v11",
+        "mapbox://mapbox.satellite": {
+            "url": "mapbox://mapbox.satellite",
             "type": "raster",
             "tileSize": 256
         },
