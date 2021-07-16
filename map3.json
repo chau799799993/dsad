@@ -226,20 +226,7 @@
             }
         }
     },
-    "center": [35.869092060810885, -1.0857266150667897],
-    "zoom": 13.39788632926911,
-    "bearing": 0,
-    "pitch": 0,
-    "sources": {
-        "mapbox://mapbox.satellite": {
-            "url": "mapbox://mapbox.satellite",
-            "type": "raster",
-            "tileSize": 256
-        },
-        "composite": {
-            "url": "mapbox://mapbox.mapbox-streets-v8",
-            "type": "vector"
-        },
+   
         "assets": {
             "attribution": "©NARWASSCO,Ltd.",
             "minzoom": 10,
