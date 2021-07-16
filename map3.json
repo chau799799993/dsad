@@ -3,7 +3,7 @@
     "name": "Satellite Streets",
     "metadata": {
         "mapbox:type": "default",
-        "mapbox:origin": "satellite-streets-v9",
+        "mapbox:origin": "satellite-streets-v11",
         "mapbox:sdk-support": {
             "js": "1.9.0",
             "android": "8.6.0",
@@ -232,7 +232,7 @@
     "pitch": 0,
     "sources": {
         "mapbox://satellite-streets-v11": {
-            "url": "mapbox://satellite",
+            "url": "mapbox://satellite-streets-v11",
             "type": "raster",
             "tileSize": 256
         },
