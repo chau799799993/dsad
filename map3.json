@@ -232,7 +232,7 @@
     "pitch": 0,
     "sources": {
         "mapbox://mapbox.satellite": {
-            "url": "mapbox://satellite-streets-v11",
+            "url": "mapbox://mapbox.satellite",
             "type": "raster",
             "tileSize": 256
         },
