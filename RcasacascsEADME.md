@@ -1,0 +1,9 @@
+https://tcmap.vn:7070/data/61bactanuyen/{z}/{x}/{y}.png
+https://tcmap.vn:7070/data/61baubang/{z}/{x}/{y}.png
+https://tcmap.vn:7070/data/61bencat/{z}/{x}/{y}.png
+https://tcmap.vn:7070/data/61dautien/{z}/{x}/{y}.png
+https://tcmap.vn:7070/data/61dian/{z}/{x}/{y}.png
+https://tcmap.vn:7070/data/61phugiao/{z}/{x}/{y}.png
+https://tcmap.vn:7070/data/61tanuyen/{z}/{x}/{y}.png
+https://tcmap.vn:7070/data/61thuanan/{z}/{x}/{y}.png
+https://tcmap.vn:7070/data/61thudaumot/{z}/{x}/{y}.png
